@@ -1,0 +1,13 @@
+{
+  "name": "CAF Moderation",
+  "version": "1.0.0",
+  "description": "CAF Moderation Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node register-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0"
+  }
+}
