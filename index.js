@@ -116,4 +116,5 @@ client.on(Events.MessageCreate, async (message) => {
   }
 });
 
-client.login(process.env.MTUxMDg4Njc4MzA5NTkzNTA2OQ.GgkGa-.cWpo114bfYrFtFKsyTFtprDY63ByTwBPD9tfBQ
+client.login(process.env.DISCORD_TOKEN)
+
