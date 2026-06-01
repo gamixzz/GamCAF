@@ -116,5 +116,4 @@ client.on(Events.MessageCreate, async (message) => {
   }
 });
 
-client.login(process.env.DISCORD_TOKEN)
-
+client.login(config.token)
