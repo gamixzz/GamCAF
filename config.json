@@ -1,7 +1,7 @@
-}
-  "token": "MTUxMDg4Njc4MzA5NTkzNTA2OQ.GgkGa-.cWpo114bfYrFtFKsyTFtprDY63ByTwBPD9tfBQ"
-  "protectedRoleIds": ["1510056464792682566"],
-  "logChannelId": "1509951969869959168",
+{
+  "protectedRoleIds": ["151005646479268566"],
+  "logChannelId": "150999519698869959168",
   "warnLimit": 2,
   "muteDuration": 10
 }
+
